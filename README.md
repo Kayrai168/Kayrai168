@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Python, Javascript and other different languages**
 
-- 👨‍💻 All of my projects are available at [[Project](https://github.com/Kayrai168?tab=projects)]
+- 👨‍💻 All of my projects are available at [Project](https://github.com/Kayrai168?tab=projects)
 
 - 📫 How to reach me **Kayrai168** (discord)
 
