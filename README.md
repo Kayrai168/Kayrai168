@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mr. Kayraii</h1>
 <h3 align="center">A passionate junior developer from Cambodia</h3>
-<p align="center"><a href="https://discord.com/users/1026117991353556992/"><img src="https://discord.c99.nl/widget/theme-1/1026117991353556992.png" /></a></p>
+<p align="center"><a href="https://discord.com/users/1026117991353556992/"><img src="https://discord.c99.nl/widget/theme-3/1026117991353556992.png" /></a></p>
 
 
 - 🌱 I’m currently learning **Python, Javascript and other different languages**
